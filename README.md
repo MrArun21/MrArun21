@@ -1,5 +1,7 @@
 
+###
 
+<h1 align="center">Hi 👋, I'm Arun</h1>
 ###
 
 <div align="center">
@@ -9,9 +11,7 @@
 
 </div>
 
-###
 
-<h1 align="center">Hi 👋, I'm Arun</h1>
 
 ###
 
